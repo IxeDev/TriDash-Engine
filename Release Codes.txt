@@ -1,0 +1,9 @@
+First digit is the release type -
+
+1 = Dev
+2 = Alpha
+3 = Beta
+4 = Release
+
+Next digits are the release date, for example October 7, 2021 (dev version) would be
+110721 (mm/dd/yy)
